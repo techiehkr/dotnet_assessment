@@ -49,4 +49,4 @@ API links:- <br />
 /api/BookControllerDto/bulk-insert
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/techiehkr/dotnet_assessment/blob/main/Screenshot%20from%202024-06-28%2000-32-48.png)
